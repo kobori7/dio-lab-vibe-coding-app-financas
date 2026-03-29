@@ -114,15 +114,7 @@ Aplicação de linguagem acessível e abordagem educativa, tornando o aplicativo
 Implementação dos princípios de Design Universal desde o protótipo, garantindo acessibilidade, usabilidade e inclusão desde as primeiras versões
 Consideração de aspectos de privacidade e segurança dos dados, assegurando transparência e proteção das informações financeiras dos usuários
 Definição de uma estratégia de evolução do produto, com possíveis melhorias futuras, como integrações externas, automações avançadas e ampliação das funcionalidades inteligentes
----
-
-## 💬 Interações com o Lovable
-
-> Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
-
-> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
-
-> Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
+-
 
 ---
 
